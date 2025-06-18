@@ -85,7 +85,6 @@ jspm_packages/
 
 # Gatsby files
 .cache/
-public
 
 # Storybook build outputs
 .out
@@ -100,12 +99,6 @@ temp/
 
 # TypeScript
 *.tsbuildinfo
-
-# React specific
-# See https://create-react-app.dev/docs/using-the-public-folder/ for more info.
-public/index.html
-public/manifest.json
-public/robots.txt
 
 # Testing
 /coverage
